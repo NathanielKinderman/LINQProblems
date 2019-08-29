@@ -11,7 +11,8 @@ namespace LINQProblem
         static void Main(string[] args)
         {
             ListLibary test = new ListLibary();
-            test.FilterString();
+            //test.FilterString();
+            test.RemoveDuplicateNames();
 
         }
     }
